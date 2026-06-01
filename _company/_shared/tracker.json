@@ -1,0 +1,38 @@
+{
+  "tasks": [
+    {
+      "id": "20260601174120-33ef",
+      "title": "약점 분석 그래프 데이터는 반드시 `API /v1/user/weaknesses`에서 제공하는 **'개선 필요 영역' 지표**를 기반으로 한다.",
+      "description": "자동 등록 (Designer 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "designer"
+      ],
+      "createdAt": "2026-06-01T17:41:20.432Z",
+      "status": "done",
+      "sessionDir": "2026-06-01T17-39",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-06-01T17-39/_report.md\n- Designer: 이전 세션에서 확정된 '약점 분석(Weakness Analysis)' 대시보드 v2.0 와이어프레임과 코다리가 정의한 핵심 데이터 구조를 기반으\n- Writer: 제작될 프로토타입 UI의 사용자 흐름을 가정하고, 핵심 전환 지점(Conversion Point)에 필요한 카피라이팅 및 CTA 문구 세트를 작\n\nCEO 종합 요점: ## 🗂 작업 라운드 — 누가 뭐 했나\n\n### 🎨 Designer _(Lead Designer)_\n> 📋 **지시**: 이전 세션에서 확정된 '약점 분석(Weakness Analysis)' 대시보드 v2.0 와이어프레임과 코다리가 정의한 핵심 데이터 구조를 기반으로, 클릭 가능한 고충실도 프로토타입 UI (Figma 등)를 제작해 주세요. 이 프로토",
+      "completedAt": "2026-06-01T17:43:48.482Z"
+    },
+    {
+      "id": "20260601174120-mnrw",
+      "title": "모든 CTA 버튼은 유료 리포트 구매 여정(Funnel)과 직접적으로 연결되어야 하며, 이탈을 막기 위해 가치 제시가 명확해야 한다.",
+      "description": "자동 등록 (Designer 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "designer"
+      ],
+      "createdAt": "2026-06-01T17:41:20.433Z",
+      "status": "done",
+      "sessionDir": "2026-06-01T17-39",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-06-01T17-39/_report.md\n- Designer: 이전 세션에서 확정된 '약점 분석(Weakness Analysis)' 대시보드 v2.0 와이어프레임과 코다리가 정의한 핵심 데이터 구조를 기반으\n- Writer: 제작될 프로토타입 UI의 사용자 흐름을 가정하고, 핵심 전환 지점(Conversion Point)에 필요한 카피라이팅 및 CTA 문구 세트를 작\n\nCEO 종합 요점: ## 🗂 작업 라운드 — 누가 뭐 했나\n\n### 🎨 Designer _(Lead Designer)_\n> 📋 **지시**: 이전 세션에서 확정된 '약점 분석(Weakness Analysis)' 대시보드 v2.0 와이어프레임과 코다리가 정의한 핵심 데이터 구조를 기반으로, 클릭 가능한 고충실도 프로토타입 UI (Figma 등)를 제작해 주세요. 이 프로토",
+      "completedAt": "2026-06-01T17:43:48.483Z"
+    }
+  ]
+}
