@@ -3,6 +3,13 @@
 duration (e.g. overnight). Reads its config from auto_planner.json."""
 import os, json, time, datetime, subprocess, sys
 
+# Windows cp949 인코딩으로 인한 이모지 출력 에러 방지
+if hasattr(sys.stdout, 'reconfigure'):
+    sys.stdout.reconfigure(encoding='utf-8')
+if hasattr(sys.stderr, 'reconfigure'):
+    sys.stderr.reconfigure(encoding='utf-8')
+
+
 HERE = os.path.dirname(os.path.abspath(__file__))
 CONFIG_PATH = os.path.join(HERE, "auto_planner.json")
 SNIPER_PATH = os.path.join(HERE, "trend_sniper.py")
@@ -36,7 +43,7 @@ def main():
         sys.exit(1)
     # 첫 실행 전 trend_sniper.py가 정상 동작하는지 빠르게 검증
     print("🔍 trend_sniper.py 첫 회차 검증 중 (~30초)...")
-    test_proc = subprocess.run([sys.executable, SNIPER_PATH], capture_output=True, text=True, timeout=300)
+    test_proc = subprocess.run([sys.executable, SNIPER_PATH], capture_output=True, encoding='utf-8', timeout=300)
     if test_proc.returncode != 0:
         print(f"❌ trend_sniper.py 검증 실패 (exit {test_proc.returncode})")
         print("   먼저 trend_sniper.py 단독으로 ▶ 실행해서 설정·키워드·LLM 연결 확인 후 재시도.")

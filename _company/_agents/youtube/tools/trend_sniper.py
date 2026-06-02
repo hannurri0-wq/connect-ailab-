@@ -11,6 +11,13 @@ Requires:  pip install google-api-python-client requests
 """
 import os, json, time, random, datetime, sys
 
+# Windows cp949 인코딩으로 인한 이모지 출력 에러 방지
+if hasattr(sys.stdout, 'reconfigure'):
+    sys.stdout.reconfigure(encoding='utf-8')
+if hasattr(sys.stderr, 'reconfigure'):
+    sys.stderr.reconfigure(encoding='utf-8')
+
+
 HERE = os.path.dirname(os.path.abspath(__file__))
 CONFIG_PATH = os.path.join(HERE, "trend_sniper.json")
 ACCOUNT_PATH = os.path.join(HERE, "youtube_account.json")
