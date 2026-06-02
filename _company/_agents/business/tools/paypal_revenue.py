@@ -21,6 +21,13 @@ config (paypal_revenue.json):
 import os, sys, json, base64, urllib.request, urllib.parse, urllib.error
 from datetime import datetime, timedelta, timezone
 
+# Windows cp949 인코딩으로 인한 이모지 출력 에러 방지
+if hasattr(sys.stdout, 'reconfigure'):
+    sys.stdout.reconfigure(encoding='utf-8')
+if hasattr(sys.stderr, 'reconfigure'):
+    sys.stderr.reconfigure(encoding='utf-8')
+
+
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 CONFIG = os.path.join(HERE, "paypal_revenue.json")
