@@ -118,3 +118,43 @@ LLM 응답 시간 초과 또는 연결 오류. 수집된 원본 데이터:
 [생산성 툴] 채널: Acalytica | 제목: Beyond the Fear: Embracing AI as Your Ultimate Productivity Tool
 
 ---
+
+
+# 🎯 트렌드 스나이핑 보고서 — 2026-06-03 22:56:01
+## 📡 키워드: 마케팅 트렌드, 생산성 툴
+
+## ⚠️ LLM 분석 실패
+LLM 응답 시간 초과 또는 연결 오류. 수집된 원본 데이터:
+
+[마케팅 트렌드] 채널: 땡스큐레이터 | 제목: 🫧AI가 발달할수록 웰니스가 더 커지는 이유 | 지금 가장 강력한 소비 트렌드를 뜯어봤습니다
+[마케팅 트렌드] 채널: Know Your Meme | 제목: Millennial VS Gen Z Marketing Trend Explained
+[마케팅 트렌드] 채널: 곽팀장 | 제목: 샤머니즘 빠진 MZ세대, 미신일까 불안일까
+[마케팅 트렌드] 채널: 삼성웰스토리 | 제목: 마케터인데..’트렌드&#39;를 언급하지 말라구요? 아슬아슬 금지어 인터뷰, 사무실 딥토크🤫
+[마케팅 트렌드] 채널: 곽팀장 | 제목: 식품 트렌드, 건강하고 작게 그리고 희소하게
+[생산성 툴] 채널: Superhuman HQ | 제목: So Many Tools, Too Little Time? Stay in the Flow With Superhuman
+[생산성 툴] 채널: SetupsAI | 제목: Find almost any tools you need #productivity #tools #tool
+[생산성 툴] 채널: Kyle takes notes | 제목: Which of these tools do you use? #productivity #sleep #college #studywithme
+[생산성 툴] 채널: Víctor Crespo Vaillo | 제목: 7 herramientas de IA que deberías conocer en 2026 para ahorrar tiempo #productividad #tecnologia
+[생산성 툴] 채널: Acalytica | 제목: Beyond the Fear: Embracing AI as Your Ultimate Productivity Tool
+
+---
+
+
+# 🎯 트렌드 스나이핑 보고서 — 2026-06-03 23:10:51
+## 📡 키워드: AI 비즈니스, 생산성 툴
+
+## ⚠️ LLM 분석 실패
+LLM 응답 시간 초과 또는 연결 오류. 수집된 원본 데이터:
+
+[AI 비즈니스] 채널: Bloomberg Originals | 제목: How AI Is Pushing the Semiconductor Supply Chain to the Limit | Bloomberg Primer
+[AI 비즈니스] 채널: Dan Martell | 제목: Learn 97% of Claude in Under 16 Minutes
+[AI 비즈니스] 채널: Bloomberg Television | 제목: What China Understands About AI and Energy That the US Doesn’t
+[AI 비즈니스] 채널: Nikhil Kamath | 제목: Howard Marks: AI, Debt vs Equity &amp; The Next 40 Years Of Investing | Nikhil Kamath | People by WTF
+[AI 비즈니스] 채널: Think School | 제목: Ultimate AI Agents Masterclass for Founders &amp; Marketers | Rethinking Marketing with AI Agents
+[생산성 툴] 채널: Superhuman HQ | 제목: So Many Tools, Too Little Time? Stay in the Flow With Superhuman
+[생산성 툴] 채널: SetupsAI | 제목: Find almost any tools you need #productivity #tools #tool
+[생산성 툴] 채널: Kyle takes notes | 제목: Which of these tools do you use? #productivity #sleep #college #studywithme
+[생산성 툴] 채널: Víctor Crespo Vaillo | 제목: 7 herramientas de IA que deberías conocer en 2026 para ahorrar tiempo #productividad #tecnologia
+[생산성 툴] 채널: Acalytica | 제목: Beyond the Fear: Embracing AI as Your Ultimate Productivity Tool
+
+---
