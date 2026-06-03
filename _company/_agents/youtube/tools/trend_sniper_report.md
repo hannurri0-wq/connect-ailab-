@@ -18,3 +18,23 @@ LLM 응답 시간 초과 또는 연결 오류. 수집된 원본 데이터:
 [유튜브 자동화] 채널: RealGrow | 제목: YouTube Automation with AI (90 DAYS Challenge 😍)
 
 ---
+
+
+# 🎯 트렌드 스나이핑 보고서 — 2026-06-03 13:40:57
+## 📡 키워드: AI 비즈니스, 생산성 툴
+
+## ⚠️ LLM 분석 실패
+LLM 응답 시간 초과 또는 연결 오류. 수집된 원본 데이터:
+
+[AI 비즈니스] 채널: Mark Tilbury | 제목: I Tried AI Dropshipping For a Week (RAW RESULTS)
+[AI 비즈니스] 채널: Superhuman HQ | 제목: The AI Tool That Actually Helps My Business | Why Superhuman Works
+[AI 비즈니스] 채널: Suyash Raj Singh | 제목: He Built India’s First AI Bike for Just ₹2 Lakh 😱
+[AI 비즈니스] 채널: Prof G Markets | 제목: AI Skeptic: This Business Makes No Sense
+[AI 비즈니스] 채널: Vaibhav Sisinty | 제목: This New AI Agent Turns You Into a One-Person Company
+[생산성 툴] 채널: Superhuman HQ | 제목: So Many Tools, Too Little Time? Stay in the Flow With Superhuman
+[생산성 툴] 채널: SetupsAI | 제목: Find almost any tools you need #productivity #tools #tool
+[생산성 툴] 채널: Acalytica | 제목: Beyond the Fear: Embracing AI as Your Ultimate Productivity Tool
+[생산성 툴] 채널: Work Permit💡 | 제목: Maximizing Productivity with Modern Cordless Power Tool Technology
+[생산성 툴] 채널: RAFFWORK ID | 제목: Timber Joint Trick #construction #productivity #woodworking #diy #tools #builder
+
+---
