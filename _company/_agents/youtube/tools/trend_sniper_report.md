@@ -58,3 +58,23 @@ LLM 응답 시간 초과 또는 연결 오류. 수집된 원본 데이터:
 [생산성 툴] 채널: RAFFWORK ID | 제목: Timber Joint Trick #construction #productivity #woodworking #diy #tools #builder
 
 ---
+
+
+# 🎯 트렌드 스나이핑 보고서 — 2026-06-03 17:40:58
+## 📡 키워드: 생산성 툴, AI 비즈니스
+
+## ⚠️ LLM 분석 실패
+LLM 응답 시간 초과 또는 연결 오류. 수집된 원본 데이터:
+
+[생산성 툴] 채널: Superhuman HQ | 제목: So Many Tools, Too Little Time? Stay in the Flow With Superhuman
+[생산성 툴] 채널: SetupsAI | 제목: Find almost any tools you need #productivity #tools #tool
+[생산성 툴] 채널: Acalytica | 제목: Beyond the Fear: Embracing AI as Your Ultimate Productivity Tool
+[생산성 툴] 채널: Work Permit💡 | 제목: Maximizing Productivity with Modern Cordless Power Tool Technology
+[생산성 툴] 채널: RAFFWORK ID | 제목: Timber Joint Trick #construction #productivity #woodworking #diy #tools #builder
+[AI 비즈니스] 채널: Mark Tilbury | 제목: I Tried AI Dropshipping For a Week (RAW RESULTS)
+[AI 비즈니스] 채널: Superhuman HQ | 제목: The AI Tool That Actually Helps My Business | Why Superhuman Works
+[AI 비즈니스] 채널: Prof G Markets | 제목: AI Skeptic: This Business Makes No Sense
+[AI 비즈니스] 채널: Vaibhav Sisinty | 제목: This New AI Agent Turns You Into a One-Person Company
+[AI 비즈니스] 채널: Compile Future | 제목: 0 Jobs to ₹4L/Month: The AI Business That Changed My Life
+
+---
