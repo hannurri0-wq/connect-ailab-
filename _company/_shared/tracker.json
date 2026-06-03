@@ -33,6 +33,57 @@
       "preAlarmsSent": [],
       "evidence": "완료: sessions/2026-06-01T17-39/_report.md\n- Designer: 이전 세션에서 확정된 '약점 분석(Weakness Analysis)' 대시보드 v2.0 와이어프레임과 코다리가 정의한 핵심 데이터 구조를 기반으\n- Writer: 제작될 프로토타입 UI의 사용자 흐름을 가정하고, 핵심 전환 지점(Conversion Point)에 필요한 카피라이팅 및 CTA 문구 세트를 작\n\nCEO 종합 요점: ## 🗂 작업 라운드 — 누가 뭐 했나\n\n### 🎨 Designer _(Lead Designer)_\n> 📋 **지시**: 이전 세션에서 확정된 '약점 분석(Weakness Analysis)' 대시보드 v2.0 와이어프레임과 코다리가 정의한 핵심 데이터 구조를 기반으로, 클릭 가능한 고충실도 프로토타입 UI (Figma 등)를 제작해 주세요. 이 프로토",
       "completedAt": "2026-06-01T17:43:48.483Z"
+    },
+    {
+      "id": "20260603181752-3go5",
+      "title": "모든 수치와 문구는 내부 리서치를 통해 검증된 재무적 손실 데이터(`$345M`, `58억 원`)를 사용했는지 확인한다.",
+      "description": "자동 등록 (Designer 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "designer"
+      ],
+      "createdAt": "2026-06-03T18:17:52.912Z",
+      "status": "done",
+      "sessionDir": "2026-06-03T18-13",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-06-03T18-13/_report.md\n- 코다리: 핵심 과제: Mini-Blueprint Pro의 핵심 가치인 '미조치 손실액 시뮬레이션'을 위한 최소 기능 프론트엔드 컴포넌트를 개발하십시오. \n- Designer: 개발팀이 위에서 개발할 실시간 손실 시뮬레이션 컴포넌트의 최종 인터페이스 가이드라인을 제공하십시오. 특히, 'Danger Red' 경고 상태로 \n\nCEO 종합 요점: ## 🗂 작업 라운드 — 누가 뭐 했나\n\n### 💻 코다리 _(시니어 풀스택 엔지니어)_\n> 📋 **지시**: 핵심 과제: Mini-Blueprint Pro의 핵심 가치인 '미조치 손실액 시뮬레이션'을 위한 최소 기능 프론트엔드 컴포넌트를 개발하십시오. 1. 사용자에게 특정 데이터(예: 시장 변화율, 시간 경과)를 입력받는 UI 요소를 배치하고, 2.",
+      "completedAt": "2026-06-03T18:18:46.716Z"
+    },
+    {
+      "id": "20260603181752-iq73",
+      "title": "Critical Red 상태 진입 시, 배경색 변화($\\text{Normal} \\rightarrow \\text{Danger}$)가 텍스트 및 애니메이션의 모든 요소에 영향을 미치도록 전역적으로 적용되었는지 검토한다.",
+      "description": "자동 등록 (Designer 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "designer"
+      ],
+      "createdAt": "2026-06-03T18:17:52.913Z",
+      "status": "done",
+      "sessionDir": "2026-06-03T18-13",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-06-03T18-13/_report.md\n- 코다리: 핵심 과제: Mini-Blueprint Pro의 핵심 가치인 '미조치 손실액 시뮬레이션'을 위한 최소 기능 프론트엔드 컴포넌트를 개발하십시오. \n- Designer: 개발팀이 위에서 개발할 실시간 손실 시뮬레이션 컴포넌트의 최종 인터페이스 가이드라인을 제공하십시오. 특히, 'Danger Red' 경고 상태로 \n\nCEO 종합 요점: ## 🗂 작업 라운드 — 누가 뭐 했나\n\n### 💻 코다리 _(시니어 풀스택 엔지니어)_\n> 📋 **지시**: 핵심 과제: Mini-Blueprint Pro의 핵심 가치인 '미조치 손실액 시뮬레이션'을 위한 최소 기능 프론트엔드 컴포넌트를 개발하십시오. 1. 사용자에게 특정 데이터(예: 시장 변화율, 시간 경과)를 입력받는 UI 요소를 배치하고, 2.",
+      "completedAt": "2026-06-03T18:18:46.717Z"
+    },
+    {
+      "id": "20260603181752-dg9i",
+      "title": "`LossSimulator` 컴포넌트는 서버 측에서 **최소한 3개의 데이터 포인트 이상**을 받아야만 정상 작동하는지 테스트 케이스를 작성한다.",
+      "description": "자동 등록 (Designer 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "designer"
+      ],
+      "createdAt": "2026-06-03T18:17:52.914Z",
+      "status": "done",
+      "sessionDir": "2026-06-03T18-13",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-06-03T18-13/_report.md\n- 코다리: 핵심 과제: Mini-Blueprint Pro의 핵심 가치인 '미조치 손실액 시뮬레이션'을 위한 최소 기능 프론트엔드 컴포넌트를 개발하십시오. \n- Designer: 개발팀이 위에서 개발할 실시간 손실 시뮬레이션 컴포넌트의 최종 인터페이스 가이드라인을 제공하십시오. 특히, 'Danger Red' 경고 상태로 \n\nCEO 종합 요점: ## 🗂 작업 라운드 — 누가 뭐 했나\n\n### 💻 코다리 _(시니어 풀스택 엔지니어)_\n> 📋 **지시**: 핵심 과제: Mini-Blueprint Pro의 핵심 가치인 '미조치 손실액 시뮬레이션'을 위한 최소 기능 프론트엔드 컴포넌트를 개발하십시오. 1. 사용자에게 특정 데이터(예: 시장 변화율, 시간 경과)를 입력받는 UI 요소를 배치하고, 2.",
+      "completedAt": "2026-06-03T18:18:46.718Z"
     }
   ]
 }
