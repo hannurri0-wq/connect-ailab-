@@ -42,8 +42,8 @@ def main():
         print(f"❌ trend_sniper.py를 찾을 수 없어요: {SNIPER_PATH}")
         sys.exit(1)
     # 첫 실행 전 trend_sniper.py가 정상 동작하는지 빠르게 검증
-    print("🔍 trend_sniper.py 첫 회차 검증 중 (~30초)...")
-    test_proc = subprocess.run([sys.executable, SNIPER_PATH], capture_output=True, encoding='utf-8', timeout=300)
+    print("🔍 trend_sniper.py 첫 회차 검증 중 (~60초)...")
+    test_proc = subprocess.run([sys.executable, SNIPER_PATH], capture_output=True, encoding='utf-8', timeout=80)
     if test_proc.returncode != 0:
         print(f"❌ trend_sniper.py 검증 실패 (exit {test_proc.returncode})")
         print("   먼저 trend_sniper.py 단독으로 ▶ 실행해서 설정·키워드·LLM 연결 확인 후 재시도.")

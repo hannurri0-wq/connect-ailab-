@@ -145,7 +145,8 @@ def main():
             print(f"   엔진 실행 확인: {'LM Studio (포트 1234)' if is_lm_studio else 'Ollama (포트 11434)'}")
             sys.exit(1)
 
-    # 추론 호출 — 엔진별 다른 endpoint·payload 형식
+    # 추론 호출 — 엔진별 다른 endpoint·payload 형식 (timeout 60초로 단축)
+    report = ""
     try:
         if is_lm_studio:
             base = ollama_url.rstrip('/')
@@ -159,7 +160,7 @@ def main():
                     "stream": False,
                     "max_tokens": 2048,
                 },
-                timeout=180,
+                timeout=60,
             )
             r.raise_for_status()
             report = r.json().get("choices", [{}])[0].get("message", {}).get("content", "").strip()
@@ -167,13 +168,13 @@ def main():
             r = requests.post(
                 f"{ollama_url}/api/generate",
                 json={"model": model, "prompt": prompt, "stream": False},
-                timeout=180,
+                timeout=60,
             )
             r.raise_for_status()
             report = r.json().get("response", "").strip()
     except Exception as e:
-        print(f"❌ LLM 호출 실패: {e}")
-        sys.exit(1)
+        print(f"⚠️ LLM 분석 타임아웃/실패 (수집 데이터는 정상 저장): {e}")
+        report = f"## ⚠️ LLM 분석 실패\nLLM 응답 시간 초과 또는 연결 오류. 수집된 원본 데이터:\n\n{data_text}"
 
     print("\n" + "="*60)
     print(report)
