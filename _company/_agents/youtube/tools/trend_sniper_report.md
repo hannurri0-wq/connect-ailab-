@@ -158,3 +158,23 @@ LLM 응답 시간 초과 또는 연결 오류. 수집된 원본 데이터:
 [생산성 툴] 채널: Acalytica | 제목: Beyond the Fear: Embracing AI as Your Ultimate Productivity Tool
 
 ---
+
+
+# 🎯 트렌드 스나이핑 보고서 — 2026-06-04 01:00:16
+## 📡 키워드: 유튜브 자동화, AI 비즈니스
+
+## ⚠️ LLM 분석 실패
+LLM 응답 시간 초과 또는 연결 오류. 수집된 원본 데이터:
+
+[유튜브 자동화] 채널: Danny Why | 제목: Claude Code + YouTube = $62,000/Month
+[유튜브 자동화] 채널: K4CREATES  | 제목: How To Clone Any YouTube Channel With Claude AI (Full Automation) 
+[유튜브 자동화] 채널: 유미카 | 제목: [최철웅 몰아보기] 현대자동차의 로봇 자동화 수준 보고 충격에 얼어붙은 북한사람들!
+[유튜브 자동화] 채널: RealGrow | 제목: YouTube Automation with AI (90 DAYS Challenge 😍)
+[유튜브 자동화] 채널: SST MUNISH SIR  | 제목: 🚨AI छोड़ो!🚨ये Tool खुद 30 Minute की Video बना देता है 😱YouTube Automation Ka Sabse Dangerous AI Tool
+[AI 비즈니스] 채널: Dan Martell | 제목: Learn 97% of Claude in Under 16 Minutes
+[AI 비즈니스] 채널: Bloomberg Originals | 제목: How AI Is Pushing the Semiconductor Supply Chain to the Limit | Bloomberg Primer
+[AI 비즈니스] 채널: Bloomberg Television | 제목: What China Understands About AI and Energy That the US Doesn’t
+[AI 비즈니스] 채널: Economy Media | 제목: Why Tech Companies Are Quietly Cancelling AI Data Centers
+[AI 비즈니스] 채널: Think School | 제목: Ultimate AI Agents Masterclass for Founders &amp; Marketers | Rethinking Marketing with AI Agents
+
+---
