@@ -218,3 +218,23 @@ LLM 응답 시간 초과 또는 연결 오류. 수집된 원본 데이터:
 [생산성 툴] 채널: Work Permit💡 | 제목: Maximizing Productivity with Modern Cordless Power Tool Technology
 
 ---
+
+
+# 🎯 트렌드 스나이핑 보고서 — 2026-06-04 03:30:20
+## 📡 키워드: 생산성 툴, 유튜브 자동화
+
+## ⚠️ LLM 분석 실패
+LLM 응답 시간 초과 또는 연결 오류. 수집된 원본 데이터:
+
+[생산성 툴] 채널: SetupsAI | 제목: Find almost any tools you need #productivity #tools #tool
+[생산성 툴] 채널: Kyle takes notes | 제목: Which of these tools do you use? #productivity #sleep #college #studywithme
+[생산성 툴] 채널: Víctor Crespo Vaillo | 제목: 7 herramientas de IA que deberías conocer en 2026 para ahorrar tiempo #productividad #tecnologia
+[생산성 툴] 채널: Acalytica | 제목: Beyond the Fear: Embracing AI as Your Ultimate Productivity Tool
+[생산성 툴] 채널: Work Permit💡 | 제목: Maximizing Productivity with Modern Cordless Power Tool Technology
+[유튜브 자동화] 채널: Danny Why | 제목: Claude Code + YouTube = $62,000/Month
+[유튜브 자동화] 채널: K4CREATES  | 제목: How To Clone Any YouTube Channel With Claude AI (Full Automation) 
+[유튜브 자동화] 채널: 유미카 | 제목: [최철웅 몰아보기] 현대자동차의 로봇 자동화 수준 보고 충격에 얼어붙은 북한사람들!
+[유튜브 자동화] 채널: RealGrow | 제목: YouTube Automation with AI (90 DAYS Challenge 😍)
+[유튜브 자동화] 채널: SST MUNISH SIR  | 제목: 🚨AI छोड़ो!🚨ये Tool खुद 30 Minute की Video बना देता है 😱YouTube Automation Ka Sabse Dangerous AI Tool
+
+---
