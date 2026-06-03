@@ -38,3 +38,23 @@ LLM 응답 시간 초과 또는 연결 오류. 수집된 원본 데이터:
 [생산성 툴] 채널: RAFFWORK ID | 제목: Timber Joint Trick #construction #productivity #woodworking #diy #tools #builder
 
 ---
+
+
+# 🎯 트렌드 스나이핑 보고서 — 2026-06-03 15:55:55
+## 📡 키워드: AI 비즈니스, 생산성 툴
+
+## ⚠️ LLM 분석 실패
+LLM 응답 시간 초과 또는 연결 오류. 수집된 원본 데이터:
+
+[AI 비즈니스] 채널: The Diary Of A CEO | 제목: Scott Galloway: AI Wasn’t Built For You. The Rich Don’t Need You Anymore!
+[AI 비즈니스] 채널: Mark Tilbury | 제목: I Tried AI Dropshipping For a Week (RAW RESULTS)
+[AI 비즈니스] 채널: Bloomberg Originals | 제목: How AI Is Pushing the Semiconductor Supply Chain to the Limit | Bloomberg Primer
+[AI 비즈니스] 채널: Dan Martell | 제목: Learn 97% of Claude in Under 16 Minutes
+[AI 비즈니스] 채널: Bloomberg Television | 제목: What China Understands About AI and Energy That the US Doesn’t
+[생산성 툴] 채널: Superhuman HQ | 제목: So Many Tools, Too Little Time? Stay in the Flow With Superhuman
+[생산성 툴] 채널: SetupsAI | 제목: Find almost any tools you need #productivity #tools #tool
+[생산성 툴] 채널: Acalytica | 제목: Beyond the Fear: Embracing AI as Your Ultimate Productivity Tool
+[생산성 툴] 채널: Work Permit💡 | 제목: Maximizing Productivity with Modern Cordless Power Tool Technology
+[생산성 툴] 채널: RAFFWORK ID | 제목: Timber Joint Trick #construction #productivity #woodworking #diy #tools #builder
+
+---
