@@ -84,6 +84,57 @@
       "preAlarmsSent": [],
       "evidence": "완료: sessions/2026-06-03T18-13/_report.md\n- 코다리: 핵심 과제: Mini-Blueprint Pro의 핵심 가치인 '미조치 손실액 시뮬레이션'을 위한 최소 기능 프론트엔드 컴포넌트를 개발하십시오. \n- Designer: 개발팀이 위에서 개발할 실시간 손실 시뮬레이션 컴포넌트의 최종 인터페이스 가이드라인을 제공하십시오. 특히, 'Danger Red' 경고 상태로 \n\nCEO 종합 요점: ## 🗂 작업 라운드 — 누가 뭐 했나\n\n### 💻 코다리 _(시니어 풀스택 엔지니어)_\n> 📋 **지시**: 핵심 과제: Mini-Blueprint Pro의 핵심 가치인 '미조치 손실액 시뮬레이션'을 위한 최소 기능 프론트엔드 컴포넌트를 개발하십시오. 1. 사용자에게 특정 데이터(예: 시장 변화율, 시간 경과)를 입력받는 UI 요소를 배치하고, 2.",
       "completedAt": "2026-06-03T18:18:46.718Z"
+    },
+    {
+      "id": "20260604040139-7xu2",
+      "title": "**State Machine:** `Danger` $\\to$ `Transition` $\\to$ `Solution`의 상태 전환은 반드시 애니메이션과 함께 구현되어야 함.",
+      "description": "자동 등록 (Designer 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "designer"
+      ],
+      "createdAt": "2026-06-04T04:01:39.440Z",
+      "status": "done",
+      "sessionDir": "2026-06-04T03-59",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-06-04T03-59/_report.md\n- Designer: Mini-Audit의 핵심 후크인  컴포넌트의 최종 와이어프레임 목업을 제작하십시오. 특히 Danger Red 단계에서 '재무 손실액'이 급격하\n- Writer: Mini-Audit의 3단계 감정 흐름(Danger $\to$ Transition $\to$ Solution)에 맞춰, 사용자 경험 전반에 걸쳐 사\n\nCEO 종합 요점: ## 🗂 작업 라운드 — 누가 뭐 했나\n\n### 🎨 Designer _(Lead Designer)_\n> 📋 **지시**: Mini-Audit의 핵심 후크인  컴포넌트의 최종 와이어프레임 목업을 제작하십시오. 특히 Danger Red 단계에서 '재무 손실액'이 급격하게 카운팅되는 애니메이션과 함께, 다음 단계(Transition)로 자연스럽게 이끄는 시",
+      "completedAt": "2026-06-04T04:04:16.929Z"
+    },
+    {
+      "id": "20260604040139-8ddu",
+      "title": "**Color Tokens:** Red/Orange/Blue 계열의 색상 변화는 단순 CSS 변경이 아닌, 컴포넌트 토큰 단위로 관리해야함.",
+      "description": "자동 등록 (Designer 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "designer"
+      ],
+      "createdAt": "2026-06-04T04:01:39.441Z",
+      "status": "done",
+      "sessionDir": "2026-06-04T03-59",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-06-04T03-59/_report.md\n- Designer: Mini-Audit의 핵심 후크인  컴포넌트의 최종 와이어프레임 목업을 제작하십시오. 특히 Danger Red 단계에서 '재무 손실액'이 급격하\n- Writer: Mini-Audit의 3단계 감정 흐름(Danger $\to$ Transition $\to$ Solution)에 맞춰, 사용자 경험 전반에 걸쳐 사\n\nCEO 종합 요점: ## 🗂 작업 라운드 — 누가 뭐 했나\n\n### 🎨 Designer _(Lead Designer)_\n> 📋 **지시**: Mini-Audit의 핵심 후크인  컴포넌트의 최종 와이어프레임 목업을 제작하십시오. 특히 Danger Red 단계에서 '재무 손실액'이 급격하게 카운팅되는 애니메이션과 함께, 다음 단계(Transition)로 자연스럽게 이끄는 시",
+      "completedAt": "2026-06-04T04:04:16.930Z"
+    },
+    {
+      "id": "20260604040139-j2mq",
+      "title": "**Animation Timing:** $\\text{Danger}$ 단계에서 1차 위협을 인지하는 시간($0 \\sim 5s$)에 가장 많은 애니메이션 리소스를 할애할 것.",
+      "description": "자동 등록 (Designer 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "designer"
+      ],
+      "createdAt": "2026-06-04T04:01:39.442Z",
+      "status": "done",
+      "sessionDir": "2026-06-04T03-59",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-06-04T03-59/_report.md\n- Designer: Mini-Audit의 핵심 후크인  컴포넌트의 최종 와이어프레임 목업을 제작하십시오. 특히 Danger Red 단계에서 '재무 손실액'이 급격하\n- Writer: Mini-Audit의 3단계 감정 흐름(Danger $\to$ Transition $\to$ Solution)에 맞춰, 사용자 경험 전반에 걸쳐 사\n\nCEO 종합 요점: ## 🗂 작업 라운드 — 누가 뭐 했나\n\n### 🎨 Designer _(Lead Designer)_\n> 📋 **지시**: Mini-Audit의 핵심 후크인  컴포넌트의 최종 와이어프레임 목업을 제작하십시오. 특히 Danger Red 단계에서 '재무 손실액'이 급격하게 카운팅되는 애니메이션과 함께, 다음 단계(Transition)로 자연스럽게 이끄는 시",
+      "completedAt": "2026-06-04T04:04:16.931Z"
     }
   ]
 }
