@@ -1,11 +1,11 @@
 # 📋 통합 스케줄
-_업데이트: 2026. 6. 4. 오전 10:50:29_
+_업데이트: 2026. 6. 4. 오전 11:33:25_
 
 ## 🤖 에이전트 최근 활동
 ### 📺 레오
-- [2026-06-03] 프로젝트 초기 단계인 만큼, 현재는 YouTube와 관련된 작업은 진행하지 않습니다. → 산출물 sessions/2026-06-03T09-32/youtube.md
 - [2026-06-03] Writer의 최종 스크립트를 활용하여 'Mini-Blueprint Pro'의 조회수 극대화를 위한 구체적이고 실행 가능한 유튜브 영상 제작 상세 프로덕션 플랜(Production Plan)을 수립하십시오. 이 계획에는 샷 리스트(Shot List), 그래픽/자막 요소 목록, 그리고 시청자의 긴장감을 유지하고 최종 CTA 클릭을 유도하는 스토리보드 지침이 포함되어야 합니다. → 산출물 sessions/2026-06-03T22-44/youtube.md
 - [2026-06-04] Writer가 제공한 최종 스크립트와 Designer가 확정한 Mini-Audit UI/UX 명세를 종합하여, 'Mini-Blueprint Pro'의 유튜브 영상 제작 상세 프로덕션 플랜(Production Plan)을 완성하십시오. 이 계획에는 시청자의 긴장감을 극대화하고 CTA 클릭을 유도하는 구체적인 샷 리스트(Shot List), 필요한 그래픽 요소 목록(재무 차트, 경고 아이콘 등), 그리고 최종 편집 방향 지침이 포함되어야 합니다. → 산출물 sessions/2026-06-04T00-44/youtube.md
+- [2026-06-04] 개발팀의 Mini-Audit 로직과 Designer가 확정한 3단계 전환 흐름(Danger Red $\rightarrow$ Solution Activated)을 기준으로, 조회수 극대화에 초점을 맞춘 유튜브 영상 제작 상세 프로덕션 플랜(Production Plan)을 완성하십시오. 이 계획에는 '재무 손실액'이라는 구체적인 위협 데이터를 활용하는 샷 리스트, 필수 그래픽 요소 목록, 그리고 시청자의 긴장감을 최고조로 끌어올려 최종 CTA 클릭을 유도하는 스토리보드 지침이 포함되어야 합니다. → 산출물 sessions/2026-06
 ### 📷 Instagram
 - [2026-06-03] 최종 확정된 3부작(Part 1/2/3) 릴스 시리즈의 캠페인 실행 계획을 수립하십시오. 각 Part별로 최적의 게시 시간대, 추천 해시태그 세트(바이럴 및 전환 유도 목적), 그리고 '저장'을 의무화하는 CTA 오버레이 지침을 포함한 최종 가이드라인을 산출합니다. → 산출물 sessions/2026-06-03T10-39/instagram.md
 - [2026-06-03] Part 1 릴스 시리즈 캠페인을 확정된 스케줄에 맞춰 게시하고, 게시 직후 스토리텔링(Poll Sticker/Quiz Sticker) 기능을 활용하여 초기 트래픽 유입과 '저장(Save)' 데이터를 최대한 많이 확보하는 데 집중하십시오. 초기 성과 데이터 분석 결과를 취합해주세요. → 산출물 sessions/2026-06-03T10-54/instagram.md
@@ -15,9 +15,9 @@ _업데이트: 2026. 6. 4. 오전 10:50:29_
 - [2026-06-04] 개발팀의 컴포넌트 라이브러리 구축에 필요한 최종 디자인 에셋 및 인터랙션 세부사항(애니메이션 스펙, 색상 토큰 등)을 정리하여 Developer에게 전달하십시오. 특히 'Danger Red'에서 'Solution Activated'로 전환되는 애니메이션 로직이 코드 레벨에서 완벽히 구현될 수 있도록 컴포넌트별 Props와 State Change의 최종 명세서를 제공해야 합니다. → 산출물 sessions/2026-06-04T01-14/designer.md
 - [2026-06-04] Mini-Audit 페이지의 3단계 애니메이션 명세서(Danger Red $ightarrow$ Transition $ightarrow$ Solution Activated)를 최종본으로 확정하고, Developer가 즉시 구현할 수 있도록 컴포넌트 단위의 인터랙션 스펙(색상 토큰 변화, 타이밍, 트랜지션 로직 등)을 구체화하여 전달하십시오. → 산출물 sessions/2026-06-04T01-44/designer.md
 ### 💻 코다리
-- [2026-06-04] Mini-Audit 기반의 '위험 경고 $ightarrow$ 해결책 제시' 흐름에 대한 통합 QA 환경(Mock API/Test Suite)을 구축하십시오. 이 테스트 스위트는 Business가 정의한 KPI 측정 지점과, Designer가 설계한 감정적 전환 애니메이션(Danger Red에서 Solution으로 넘어가는 과정)의 기술적 동기화 여부를 검증할 수 있어야 합니다. → 산출물 sessions/2026-06-04T00-14/developer.md
 - [2026-06-04] Designer가 확정한 'Mini-Audit V2.0'의 UI/UX 명세서(특히 Danger Red와 Solution Activated 상태)를 기반으로, 핵심 컴포넌트 라이브러리 코딩을 시작하십시오. 실제 데이터를 사용하지 않는 Mock API 및 E2E 테스트 스위트를 포함하여, 세 가지 감정적 상태(DANGER, WARNING, STABLE/SOLUTION)가 동적으로 전환되는 기능을 구현하는 것을 목표로 합니다. → 산출물 sessions/2026-06-04T01-14/developer.md
 - [2026-06-04] Designer가 확정한 Mini-Audit 애니메이션/UI 스펙을 기반으로, 핵심 상태 전환(DANGER -> SOLUTION)에 초점을 맞춘 Mock API 레이어와 프론트엔드 컴포넌트를 우선적으로 구현하십시오. 특히 이 로직의 안정성을 검증할 수 있는 E2E 테스트 스위트 작성을 최우선 과제로 삼고 진행합니다. → 산출물 sessions/2026-06-04T01-44/developer.md
+- [2026-06-04] Mini-Audit의 핵심 서비스 레이어(miniAuditService.ts)에 대한 E2E 테스트 스위트 작성을 최우선으로 진행하십시오. 특히 DANGER $\rightarrow$ TRANSITION $\rightarrow$ STABLE 상태 전환 로직과 경계 조건(Edge Cases)을 포함하여, 시스템이 어떤 입력값에서도 예측 가능한 결과를 반환하는지 검증하고 코드 안정성 보고서를 작성해야 합니다. → 산출물 sessions/2026-06-04T02-29/developer.md
 ### 💼 현빈
 - [2026-06-04] 비서가 정리한 현황 보고서를 바탕으로, 현재의 KPI 달성도(특히 Mini-Blueprint Pro 판매 퍼널)를 분석하고, 가장 높은 ROI를 기대할 수 있는 최우선 수익화 액션 플랜 1개를 구체적인 가격 및 실행 전략과 함께 제안하십시오. → 산출물 sessions/2026-06-03T23-59/business.md
 - [2026-06-04] Mini-Audit Page의 최종 기능 정의를 수행하십시오. 이 진단 툴이 'Danger Red 경고'를 사용자에게 제공하고, 다음 단계로 $49짜리 리드 마그넷(가이드) 구매 페이지로 유도하는 전환 퍼널의 구체적인 KPI (예: 진단 완료율, 위험 감지 시 체류 시간, 가이드 클릭률 등)와 성공 기준을 명확히 수립하십시오. → 산출물 sessions/2026-06-04T00-14/business.md
