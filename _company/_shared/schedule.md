@@ -1,5 +1,5 @@
 # 📋 통합 스케줄
-_업데이트: 2026. 6. 4. 오후 12:35:40_
+_업데이트: 2026. 6. 4. 오후 12:50:45_
 
 ## 🤖 에이전트 최근 활동
 ### 📺 레오
@@ -11,17 +11,17 @@ _업데이트: 2026. 6. 4. 오후 12:35:40_
 - [2026-06-03] Part 1 릴스 시리즈 캠페인을 확정된 스케줄에 맞춰 게시하고, 게시 직후 스토리텔링(Poll Sticker/Quiz Sticker) 기능을 활용하여 초기 트래픽 유입과 '저장(Save)' 데이터를 최대한 많이 확보하는 데 집중하십시오. 초기 성과 데이터 분석 결과를 취합해주세요. → 산출물 sessions/2026-06-03T10-54/instagram.md
 - [2026-06-03] Writer의 릴스 카피를 활용하여 'Mini-Blueprint Pro' 3부작(Part 1/2/3) 릴스 시리즈의 최종 캠페인 실행 계획을 완성하십시오. 각 Part별로 최적화된 게시 시간대, 바이럴과 전환 유도를 동시에 달성할 수 있는 해시태그 세트, 그리고 '저장(Save)' 버튼 클릭을 의무화하는 스토리텔링 기반 CTA 오버레이 지침까지 포함해야 합니다. → 산출물 sessions/2026-06-03T22-44/instagram.md
 ### 🎨 Designer
-- [2026-06-04] 개발팀의 컴포넌트 라이브러리 구축에 필요한 최종 디자인 에셋 및 인터랙션 세부사항(애니메이션 스펙, 색상 토큰 등)을 정리하여 Developer에게 전달하십시오. 특히 'Danger Red'에서 'Solution Activated'로 전환되는 애니메이션 로직이 코드 레벨에서 완벽히 구현될 수 있도록 컴포넌트별 Props와 State Change의 최종 명세서를 제공해야 합니다. → 산출물 sessions/2026-06-04T01-14/designer.md
 - [2026-06-04] Mini-Audit 페이지의 3단계 애니메이션 명세서(Danger Red $ightarrow$ Transition $ightarrow$ Solution Activated)를 최종본으로 확정하고, Developer가 즉시 구현할 수 있도록 컴포넌트 단위의 인터랙션 스펙(색상 토큰 변화, 타이밍, 트랜지션 로직 등)을 구체화하여 전달하십시오. → 산출물 sessions/2026-06-04T01-44/designer.md
 - [2026-06-04] Writer가 제공한 3가지 옵션별 카피라이팅과 Business 팀이 제시한 가격 구조를 기반으로, 사용자가 '공포(Danger Red)'에서 '통제감(Solution Activated)'을 느끼며 즉각적으로 결정을 내릴 수 있는 Quick-Sell Widget의 와이어프레임 및 컴포넌트 디자인 가이드라인을 완성하십시오. 이에는 옵션 비교표, 가격 표시 방식, 그리고 CTA 버튼의 위기감 완화 효과를 극대화하는 시각적 요소가 포함되어야 합니다. → 산출물 sessions/2026-06-04T02-59/designer.md
+- [2026-06-04] Mini-Audit의 3단계 감정적 전환 과정(Danger Red $ightarrow$ Transition $ightarrow$ Solution Activated)에서 '재무 손실액'과 같은 핵심 수치가 사용자에게 노출되는 모든 UI 컴포넌트를 검토하고, Developer가 정확한 데이터 추적 로직을 구현할 수 있도록 각 수치 요소의 크기, 위치, 애니메이션 트리거 시점 등의 최종 디자인 스펙(Design Spec)을 제공해주세요. → 산출물 sessions/2026-06-04T03-44/designer.md
 ### 💻 코다리
-- [2026-06-04] Mini-Audit의 핵심 서비스 레이어(miniAuditService.ts)에 대한 E2E 테스트 스위트 작성을 최우선으로 진행하십시오. 특히 DANGER $\rightarrow$ TRANSITION $\rightarrow$ STABLE 상태 전환 로직과 경계 조건(Edge Cases)을 포함하여, 시스템이 어떤 입력값에서도 예측 가능한 결과를 반환하는지 검증하고 코드 안정성 보고서를 작성해야 합니다. → 산출물 sessions/2026-06-04T02-29/developer.md
 - [2026-06-04] Mini-Audit 서비스의 상태 전이(State Transition) 경계 조건(Edge Cases)을 포함하는 E2E 통합 테스트 스위트(Test Suite)를 작성하고 실행하여, Danger $\rightarrow$ Transition $\rightarrow$ Stable 로직에 대한 코드 안정성 보고서를 제출하십시오. 특히 예외 상황에서의 오류 처리와 데이터 무결성을 검증해야 합니다. → 산출물 sessions/2026-06-04T02-44/developer.md
 - [2026-06-04] Designer가 완성한 'Quick-Sell Widget'의 컴포넌트 명세와 Business 팀이 확정한 $99/$299/$999 가치 앵커링 가격 로직을 기반으로, Mini-Audit 페이지에 통합될 핵심 결제 위젯 모듈(React/Vue 등 사용)의 초기 프레임워크를 구축하십시오. 특히 'Danger Red $	o$ Solution Activated'로의 상태 전환 애니메이션이 구현 가능한 컴포넌트 구조와 Mock API 연동 지점을 최우선으로 설계하고, E2E 테스트 스위트 초안을 작성하는 데 집중하십시오. → 산출물 ses
+- [2026-06-04] Business와 Designer가 정의한 KPI 측정 요구사항과 UI/UX 명세서를 바탕으로, Mini-Audit 플로우 전반에 걸쳐 모든 핵심 이벤트(Danger 단계 진입, 재무 손실액 수치 노출 시점, 특정 옵션 클릭 등)를 추적할 수 있는 Mock API 레이어 및 E2E 테스트 스위트를 우선적으로 구축하고, 이를 개발 로직의 최우선 순위로 설정해주세요. → 산출물 sessions/2026-06-04T03-44/developer.md
 ### 💼 현빈
-- [2026-06-04] Mini-Audit의 테스트 결과가 단순 기능 구현을 넘어, 실제 수익화 목표(KPI) 달성에 기여하는지 분석하십시오. E2E 테스트를 통과한 'Stable' 상태에서의 최종 CTA 클릭 경로와 사용자 여정 중 잠재적 이탈 지점(Drop-off Points)에 대한 비즈니스 리스크 평가 보고서를 작성해주세요. → 산출물 sessions/2026-06-04T02-44/business.md
 - [2026-06-04] Mini-Audit의 최종 CTA 단계에서 사용자가 가장 빠르게 결정을 내릴 수 있도록, 3가지 옵션(A, B, C)에 대한 최적의 가격 책정 구조와 번들링 전략을 재분석하십시오. 각 옵션별로 제공하는 '가치'를 명확히 하고, 이탈률 감소 및 평균 거래액(AOV) 극대화를 위한 구체적인 비즈니스 KPI 개선 방안을 제시해야 합니다. → 산출물 sessions/2026-06-04T02-59/business.md
 - [2026-06-04] Mini-Audit의 성공적인 마케팅 실행을 위한 3가지 필수 KPI(핵심 성과 지표)를 재정립하고, 각 KPI별로 목표 수치와 측정 방법을 정의해주세요. (예: 트래픽 유입 경로별 전환율 분석, 리드 확보 비용 최적화 등) → 산출물 sessions/2026-06-04T03-29/business.md
+- [2026-06-04] Mini-Audit의 KPI 정의서(KPI Definition Sheet)를 업데이트합니다. 단순히 트래픽이나 전환율이 아닌, 'AHA Moment 도달률'과 '상위 번들 옵션 선택 여부'를 핵심 지표로 삼아, 각 지표가 시스템적으로 어떤 데이터 포인트를 수집해야 하는지 상세한 비즈니스 로직 및 측정 기준(Success Criteria)을 명확히 정의해주세요. → 산출물 sessions/2026-06-04T03-44/business.md
 ### 📱 영숙
 - [2026-06-04] 최근 모든 활동 로그(Last Decision Log)와 CEO 개인 메모리를 종합하여, 전사적인 관점에서 가장 큰 병목 지점(Bottleneck) 3가지와 미해결 과제 목록을 포함하는 '데일리 사이클 브리핑 보고서'를 작성하십시오. → 산출물 sessions/2026-06-03T23-59/secretary.md
 - [2026-06-04] 작성된 거절 스크립트를 기반으로, 해당 문의가 발생했을 때 팀원들이 일관되고 전문적인 대응을 할 수 있도록 내부 가이드라인 초안을 작성하고, 추후 유사한 주제의 요청이 들어올 경우 사전에 차단할 수 있는 프로세스 개선 방안을 요약해 주세요. → 산출물 sessions/2026-06-04T01-27/secretary.md
