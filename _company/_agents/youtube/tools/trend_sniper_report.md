@@ -438,3 +438,43 @@ LLM 응답 시간 초과 또는 연결 오류. 수집된 원본 데이터:
 [마케팅 트렌드] 채널: 곽팀장 | 제목: 샤머니즘 빠진 MZ세대, 미신일까 불안일까
 
 ---
+
+
+# 🎯 트렌드 스나이핑 보고서 — 2026-06-06 21:58:03
+## 📡 키워드: 유튜브 자동화, AI 비즈니스
+
+## ⚠️ LLM 분석 실패
+LLM 응답 시간 초과 또는 연결 오류. 수집된 원본 데이터:
+
+[유튜브 자동화] 채널: Danny Why | 제목: Claude Code + YouTube = $62,000/Month
+[유튜브 자동화] 채널: K4CREATES  | 제목: How To Clone Any YouTube Channel With Claude AI (Full Automation) 
+[유튜브 자동화] 채널: 유미카 | 제목: [최철웅 몰아보기] 현대자동차의 로봇 자동화 수준 보고 충격에 얼어붙은 북한사람들!
+[유튜브 자동화] 채널: RealGrow | 제목: YouTube Automation with AI (90 DAYS Challenge 😍)
+[유튜브 자동화] 채널: SAGAR THE TECH | 제목: How I Made $36,677.43 🤑 with YouTube Shorts Automation | Full Course | USA Channel Idea 2026
+[AI 비즈니스] 채널: Dan Martell | 제목: Learn 97% of Claude in Under 16 Minutes
+[AI 비즈니스] 채널: Suyash Raj Singh | 제목: He Built India’s First AI Bike for Just ₹2 Lakh 😱
+[AI 비즈니스] 채널: Bloomberg Television | 제목: What China Understands About AI and Energy That the US Doesn’t
+[AI 비즈니스] 채널: Economy Media | 제목: Why Tech Companies Are Quietly Cancelling AI Data Centers
+[AI 비즈니스] 채널: Raj Shamani | 제목: How To Grow Your Salary To ₹1 Crore Using AI | Vaibhav Sisinty | FO514 Raj Shamani
+
+---
+
+
+# 🎯 트렌드 스나이핑 보고서 — 2026-06-06 21:58:37
+## 📡 키워드: 마케팅 트렌드, 생산성 툴
+
+## ⚠️ LLM 분석 실패
+LLM 응답 시간 초과 또는 연결 오류. 수집된 원본 데이터:
+
+[마케팅 트렌드] 채널: Criteo_Korea | 제목: [Criteo Commerce Forum 2026 하이라이트] 커머스 인텔리전스, 그 다음 챕터를 열다
+[마케팅 트렌드] 채널: 곽팀장 | 제목: 샤머니즘 빠진 MZ세대, 미신일까 불안일까
+[마케팅 트렌드] 채널: 곽팀장 | 제목: 식품 트렌드, 건강하고 작게 그리고 희소하게
+[마케팅 트렌드] 채널: 곽팀장 | 제목: 스타벅스가 쌓아온 10년, 악몽 같았던 10일
+[마케팅 트렌드] 채널: 땡스큐레이터 | 제목: ‘라이프스타일’을 파는 브랜드가 뜬다
+[생산성 툴] 채널: Kyle takes notes | 제목: Which of these tools do you use? #productivity #sleep #college #studywithme
+[생산성 툴] 채널: Acalytica | 제목: Beyond the Fear: Embracing AI as Your Ultimate Productivity Tool
+[생산성 툴] 채널: Prime Care | 제목: Boosting Agricultural Productivity with Simple Mechanical Tools
+[생산성 툴] 채널: Work Permit💡 | 제목: Maximizing Productivity with Modern Cordless Power Tool Technology
+[생산성 툴] 채널: RAFFWORK ID | 제목: Timber Joint Trick #construction #productivity #woodworking #diy #tools #builder
+
+---
