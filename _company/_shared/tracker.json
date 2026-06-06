@@ -135,6 +135,23 @@
       "preAlarmsSent": [],
       "evidence": "완료: sessions/2026-06-04T03-59/_report.md\n- Designer: Mini-Audit의 핵심 후크인  컴포넌트의 최종 와이어프레임 목업을 제작하십시오. 특히 Danger Red 단계에서 '재무 손실액'이 급격하\n- Writer: Mini-Audit의 3단계 감정 흐름(Danger $\to$ Transition $\to$ Solution)에 맞춰, 사용자 경험 전반에 걸쳐 사\n\nCEO 종합 요점: ## 🗂 작업 라운드 — 누가 뭐 했나\n\n### 🎨 Designer _(Lead Designer)_\n> 📋 **지시**: Mini-Audit의 핵심 후크인  컴포넌트의 최종 와이어프레임 목업을 제작하십시오. 특히 Danger Red 단계에서 '재무 손실액'이 급격하게 카운팅되는 애니메이션과 함께, 다음 단계(Transition)로 자연스럽게 이끄는 시",
       "completedAt": "2026-06-04T04:04:16.931Z"
+    },
+    {
+      "id": "20260606105648-wdrk",
+      "title": "월수입1000만원",
+      "description": "자동 등록 (코다리 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "developer"
+      ],
+      "createdAt": "2026-06-06T10:56:48.314Z",
+      "status": "done",
+      "sessionDir": "2026-06-06T10-42",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-06-06T10-42/_report.md\n- 코다리: 구체적이고 실행 가능한 한국어 지시\n\nCEO 종합 요점: 💻 코다리: 작업 시작합니다.\n\n---\n\n# 💻 Developer 에이전트 — 나의 미션\n\n- 🌞 24시간 업무가 켜져 있으면 이 미션을 향해 자동으로 한 스텝씩 일합니다.\n- 자유롭게 수정하세요. 비워두면 회사 공동 목표만 따라갑니다.\n\n## 장기 목표 (3~6개월)\n- 반복 업무 자동화 스크립트 5개 운영\n- 데이터 파이프라인 / API 연결 안정",
+      "completedAt": "2026-06-06T10:56:48.349Z"
     }
   ]
 }
