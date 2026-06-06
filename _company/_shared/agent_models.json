@@ -1,11 +1,11 @@
 {
-  "ceo": "google/gemma-4-e4b",
-  "secretary": "google/gemma-4-e4b",
-  "youtube": "google/gemma-4-e4b",
-  "researcher": "google/gemma-4-e4b",
-  "business": "google/gemma-4-e4b",
-  "writer": "google/gemma-4-e4b",
-  "editor": "google/gemma-4-e4b",
-  "designer": "google/gemma-4-e4b",
-  "instagram": "google/gemma-4-e4b"
+  "ceo": "qwen/qwen2.5-vl-7b",
+  "secretary": "qwen/qwen2.5-vl-7b",
+  "youtube": "qwen/qwen2.5-vl-7b",
+  "researcher": "qwen/qwen2.5-vl-7b",
+  "business": "qwen/qwen2.5-vl-7b",
+  "writer": "qwen/qwen2.5-vl-7b",
+  "editor": "qwen/qwen2.5-vl-7b",
+  "designer": "qwen/qwen2.5-vl-7b",
+  "instagram": "qwen/qwen2.5-vl-7b"
 }
