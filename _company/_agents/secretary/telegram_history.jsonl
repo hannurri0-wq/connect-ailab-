@@ -23,3 +23,4 @@
 {"role":"assistant","text":"(CEO에게 전달) 📨 요청하신 '디아블로2 자동사냥' 관련 문의는 전문팀에 전달했습니다.","ts":1780536430323}
 {"role":"user","text":"왜 안되고있지","ts":1780556497693}
 {"role":"user","text":"🔍 문제 원인\ngoogle/gemma-4-e2b는 \"thinking(추론)\" 모델입니다. 일반 모델과 다르게 응답 구조가 다릅니다:\n일반 모델\nThinking 모델 (gemma-4-e2b)\ncontent\n✅ 여기에 답변이 들어감\n❌ 빈 문자열\nreasoning_content\n없음\n여기에 답변이 들어감\nConnect AI는 content 필드만 읽기 때문에 → 빈 응답(빈 말풍선) → \"LLM 호출 실패\"처럼 보였던 것입니다.\n🛠 다른 PC에서 해결하는 방법\n방법 1: 설정 파일 직접 수정 (가장 빠름)\n아래 파일을 메모장으로 엽니다:\nC:\\Users\\[사용자이름]\\AppData\\Roaming\\Antigravity IDE\\User\\settings.json\n⚠️ \n[사용자이름]\n은 해당 PC의 Windows 사용자 이름으로 바꿔주세요\n파일에서 defaultModel 부분을 찾아 변경합니다:\ndiff\n- \"connectAiLab.defaultModel\": \"google/gemma-4-","ts":1780730905255}
+{"role":"user","text":"https://t.me/+bU_EQt9kK08wZWZl","ts":1780813861522}
