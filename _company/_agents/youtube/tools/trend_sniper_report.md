@@ -478,3 +478,23 @@ LLM 응답 시간 초과 또는 연결 오류. 수집된 원본 데이터:
 [생산성 툴] 채널: RAFFWORK ID | 제목: Timber Joint Trick #construction #productivity #woodworking #diy #tools #builder
 
 ---
+
+
+# 🎯 트렌드 스나이핑 보고서 — 2026-06-09 22:26:20
+## 📡 키워드: AI 비즈니스, 마케팅 트렌드
+
+## ⚠️ LLM 분석 실패
+LLM 응답 시간 초과 또는 연결 오류. 수집된 원본 데이터:
+
+[AI 비즈니스] 채널: Dan Martell | 제목: Learn 97% of Claude in Under 16 Minutes
+[AI 비즈니스] 채널: Bloomberg Television | 제목: What China Understands About AI and Energy That the US Doesn’t
+[AI 비즈니스] 채널: Economy Media | 제목: Why Tech Companies Are Quietly Cancelling AI Data Centers
+[AI 비즈니스] 채널: Raj Shamani | 제목: How To Grow Your Salary To ₹1 Crore Using AI | Vaibhav Sisinty | FO514 Raj Shamani
+[AI 비즈니스] 채널: The Economist | 제목: Can Elon Musk pull off the biggest IPO in history?
+[마케팅 트렌드] 채널: Criteo_Korea | 제목: [Criteo Commerce Forum 2026 하이라이트] 커머스 인텔리전스, 그 다음 챕터를 열다
+[마케팅 트렌드] 채널: 땡스큐레이터 | 제목: 🫧AI가 발달할수록 웰니스가 더 커지는 이유 | 지금 가장 강력한 소비 트렌드를 뜯어봤습니다
+[마케팅 트렌드] 채널: 곽팀장 | 제목: 샤머니즘 빠진 MZ세대, 미신일까 불안일까
+[마케팅 트렌드] 채널: 곽팀장 | 제목: 식품 트렌드, 건강하고 작게 그리고 희소하게
+[마케팅 트렌드] 채널: 곽팀장 | 제목: AI 시대의 역설, 사람들은 다시 진짜를 찾는다
+
+---
