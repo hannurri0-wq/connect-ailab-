@@ -518,3 +518,23 @@ LLM 응답 시간 초과 또는 연결 오류. 수집된 원본 데이터:
 [AI 비즈니스] 채널: The Tech Report | 제목: AI Bubble: ‘Business idiots’ are finally seeing the downside of uncapped AI | Ed Zitron
 
 ---
+
+
+# 🎯 트렌드 스나이핑 보고서 — 2026-06-14 20:42:09
+## 📡 키워드: 유튜브 자동화, 생산성 툴
+
+## ⚠️ LLM 분석 실패
+LLM 응답 시간 초과 또는 연결 오류. 수집된 원본 데이터:
+
+[유튜브 자동화] 채널: Danny Why | 제목: Claude Code + YouTube = $62,000/Month
+[유튜브 자동화] 채널: 유미카 | 제목: [최철웅 몰아보기] 현대자동차의 로봇 자동화 수준 보고 충격에 얼어붙은 북한사람들!
+[유튜브 자동화] 채널: RealGrow | 제목: YouTube Automation with AI (90 DAYS Challenge 😍)
+[유튜브 자동화] 채널: SAGAR THE TECH | 제목: How I Made $36,677.43 🤑 with YouTube Shorts Automation | Full Course | USA Channel Idea 2026
+[유튜브 자동화] 채널: zapiwala ai | 제목: I Cloned a YouTube Channel with Claude Code | No Coding | Full Tutorial
+[생산성 툴] 채널: 할리노트 | 제목: 구독에 지친 당신을 구원할 신박한 무료 생산성 툴 4가지 (회의록/유튜브 필기/시각화 앱)
+[생산성 툴] 채널: Kyle takes notes | 제목: Which of these tools do you use? #productivity #sleep #college #studywithme
+[생산성 툴] 채널: Prime Care | 제목: Boosting Agricultural Productivity with Simple Mechanical Tools
+[생산성 툴] 채널: Learn AI with Ritika | 제목: 5 FREE AI Tools to 10X Productivity 🚀 FREE AI Tools Everyone Should Use🔥#ai #aitools
+[생산성 툴] 채널: Syafil Workers | 제목: This Bricklaying Technique Saves Hours of Construction Time 🇺🇸 #construction #productivity #tools
+
+---
